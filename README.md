@@ -1,6 +1,7 @@
 # conform
 
 A schema validation and filtering framework for node.js  
+
 It's a fork of [revalidator](https://github.com/flatiron/revalidator) which
 extends him with ability to modify source object - apply default values, casts,
 filters to source objects (see *castSource*, *applyDefaultValue* at
