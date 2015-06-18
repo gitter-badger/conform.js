@@ -1,5 +1,7 @@
 # conform
 
+[![Join the chat at https://gitter.im/vladimir-polyakov/conform.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vladimir-polyakov/conform.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A schema validation and filtering framework for node.js  
 
 It's a fork of [revalidator](https://github.com/flatiron/revalidator) which
